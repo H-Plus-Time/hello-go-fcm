@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/NaySoftware/go-fcm
+- package: github.com/robfig/cron
+  version: ^1.0.0
